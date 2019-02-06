@@ -1,0 +1,7 @@
+C:\Users\justi\Documents\Grandcircus projects\Labs\AlgorithmLab\AlgorithmLab\obj\Debug\AlgorithmLab.csprojAssemblyReference.cache
+C:\Users\justi\Documents\Grandcircus projects\Labs\AlgorithmLab\AlgorithmLab\obj\Debug\AlgorithmLab.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\Grandcircus projects\Labs\AlgorithmLab\AlgorithmLab\bin\Debug\AlgorithmLab.exe.config
+C:\Users\justi\Documents\Grandcircus projects\Labs\AlgorithmLab\AlgorithmLab\bin\Debug\AlgorithmLab.exe
+C:\Users\justi\Documents\Grandcircus projects\Labs\AlgorithmLab\AlgorithmLab\bin\Debug\AlgorithmLab.pdb
+C:\Users\justi\Documents\Grandcircus projects\Labs\AlgorithmLab\AlgorithmLab\obj\Debug\AlgorithmLab.exe
+C:\Users\justi\Documents\Grandcircus projects\Labs\AlgorithmLab\AlgorithmLab\obj\Debug\AlgorithmLab.pdb
